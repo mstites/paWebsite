@@ -227,6 +227,15 @@ ul {
   font-style: italic;
 }
 
+/* MEMBERS */
+.member h2 {
+  margin-bottom: 0em;
+}
+
+.member ul {
+  margin-top: 0em;
+}
+
 /* 404 */
 .p404 h1 {
   font-size: 150px;
