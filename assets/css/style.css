@@ -291,7 +291,7 @@ ul {
 
 @media screen and (max-width: 600px) {
   .navbar {
-    height: 250px;
+    height: 110px;
     position: static;
   }
   .navbar ul {
@@ -307,7 +307,7 @@ ul {
 
 @media (hover:none), (hover:on-demand) {
   .navbar {
-    height: 630px;
+    height: 375px;
     position: static;
   }
   .navbar ul {
@@ -319,7 +319,9 @@ ul {
   .navbar li a {
     font-size: 40px;
   }
-
+  body {
+    font-size: 30px;
+  }
   .row {
     width: 90%;
     /* font-size: 40px; */
